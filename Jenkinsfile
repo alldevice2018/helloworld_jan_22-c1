@@ -35,9 +35,10 @@
           steps {
                echo 'Image step'
               
-          }
+           }
 
-      }
+        }
 
-   }
-}
+     }
+
+ }
